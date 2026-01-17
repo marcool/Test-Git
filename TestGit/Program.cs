@@ -20,6 +20,7 @@ namespace TestGit
 
             string test1;
             string test2;
+            string test3;
         }
     }
 }
