@@ -19,6 +19,7 @@ namespace TestGit
             Application.Run(new Form1());
 
             string test1;
+            string test2;
         }
     }
 }
