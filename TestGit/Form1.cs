@@ -18,6 +18,7 @@ namespace TestGit
             string testform;
             string othervar;
             string othervar1;
+            string othervar2;
         }
     }
 }
