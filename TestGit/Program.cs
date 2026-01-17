@@ -24,6 +24,7 @@ namespace TestGit
             string test4;
             string test5;
             string test8;
+            string test9;
         }
     }
 }
