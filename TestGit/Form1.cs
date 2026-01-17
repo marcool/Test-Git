@@ -16,6 +16,7 @@ namespace TestGit
         {
             InitializeComponent();
             string testform;
+            string othervar;
         }
     }
 }
